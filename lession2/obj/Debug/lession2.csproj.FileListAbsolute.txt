@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\C#\lession2\obj\Debug\lession2.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\lession2\obj\Debug\lession2.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\lession2\obj\Debug\lession2.Form1.resources
+C:\Users\User\Desktop\C#\lession2\obj\Debug\lession2.Properties.Resources.resources
+C:\Users\User\Desktop\C#\lession2\obj\Debug\lession2.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\lession2\obj\Debug\lession2.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\lession2\bin\Debug\lession2.exe.config
+C:\Users\User\Desktop\C#\lession2\bin\Debug\lession2.exe
+C:\Users\User\Desktop\C#\lession2\bin\Debug\lession2.pdb
+C:\Users\User\Desktop\C#\lession2\obj\Debug\lession2.exe
+C:\Users\User\Desktop\C#\lession2\obj\Debug\lession2.pdb
